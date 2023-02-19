@@ -42,11 +42,11 @@ about = """
 
 \033[1;91m[*] My Social media profile:
 
-\033[1;91m>>> \033[1;97mInstagram: 0hacker_x0
-\033[1;91m>>> \033[1;97mGithub   : MrHacker-X
-\033[1;91m>>> \033[1;97mYouTube  : @Technolex
-\033[1;91m>>> \033[1;97mTelegram : hackwithalex
-\033[1;91m>>> \033[1;97mFacebook : hackerxmr
+\033[1;91m>>> \033[1;97mInstagram: pushy.gamer.37
+\033[1;91m>>> \033[1;97mGithub   : dhritzz
+\033[1;91m>>> \033[1;97mYouTube  : @kontol
+\033[1;91m>>> \033[1;97mTelegram : adsdasdasas
+\033[1;91m>>> \033[1;97mFacebook : adsdas
 
 \033[1;91m>>> \033[1;97mIf you want to copy my code then give me credit.
 """
@@ -64,7 +64,7 @@ main_menu = """
         \033[1;91m[08] \033[1;97mAbout
         \033[1;91m[99] \033[1;97mQuit
 
-        \033[1;91mdevilx>> """
+        \033[1;91mforce>> """
 
 
 brute = """
@@ -76,7 +76,7 @@ brute = """
         \033[1;91m[95] \033[1;97mBack
         \033[1;91m[99] \033[1;97mQuit
 
-        devilx>> """
+        force>> """
 
 webscr = """
         \033[1;91m[??] Select an option:
@@ -87,7 +87,7 @@ webscr = """
         \033[1;91m[95] \033[1;97mBack
         \033[1;91m[99] \033[1;97mQuit
 
-        \033[1;91mdevilx>> """
+        \033[1;91mforce>> """
 
 getinfo = """
         \033[1;91m[??] Select an option:
@@ -98,7 +98,7 @@ getinfo = """
         \033[1;91m[95] \033[1;97mBack
         \033[1;91m[99] \033[1;97mQuit
 
-        \033[1;91mdevilx>> """
+        \033[1;91mforce>> """
 
 crackhash = """
         \033[1;91m[??] Select an option:
@@ -112,7 +112,7 @@ crackhash = """
         \033[1;91m[95] \033[1;97mBack
         \033[1;91m[99] \033[1;97mQuit
 
-        \033[1;91mdevilx>> """
+        \033[1;91mforce>> """
 
 pass_mod = """
         \033[1;91m[??] Select password mode:
@@ -122,7 +122,7 @@ pass_mod = """
         \033[1;91m[95] \033[1;97mBack
         \033[1;91m[99] \033[1;97mQuit
 
-        \033[1;91mdevilx>> """
+        \033[1;91mforce>> """
 
 word_mod = """
         \033[1;91m[??] Select wordlist mode:
@@ -132,7 +132,7 @@ word_mod = """
         \033[1;91m[95] \033[1;97mBack
         \033[1;91m[99] \033[1;97mQuit
 
-        \033[1;91mdevilx>> """
+        \033[1;91mforce>> """
 
 soc = """
         \033[1;91m[?] Select any options
@@ -145,10 +145,10 @@ soc = """
         \033[1;91m[95] \033[1;97mBack
         \033[1;91m[99] \033[1;97mQuit
 
-        \033[1;91mdevilx>> """
+        \033[1;91mforce>> """
 
 alltool = """
-        \033[1;91m[??] Select any Tool: 
+        \033[1;91m[??] Select any Tool (we partnership).: 
 
         \033[1;91m[01]\033[1;97m 007-TheBond
         \033[1;91m[02]\033[1;97m AdminHack
@@ -263,7 +263,7 @@ alltool = """
         \033[1;91m[_B_]\033[1;97m Back
         \033[1;91m[_Q_]\033[1;97m Quit
 
-        \033[1;91mdevilx>> """
+        \033[1;91mforce>> """
 
 ################### All tool installation function ####################
 
@@ -2537,7 +2537,7 @@ while True:
                         print("\033[1;91m[!] No input detected")
 
                     elif passd == "1" or passd == "01":
-                        passlist = '/data/data/com.termux/DevilX/config/password/pass.txt'
+                        passlist = '/data/data/com.termux/force/config/password/pass.txt'
                         print()
                         hackmail()
                         break
@@ -2583,7 +2583,7 @@ while True:
                         print("\033[1;91m[!] No input detected")
 
                     elif passd == "1" or passd == "01":
-                        passlist = '/data/data/com.termux/DevilX/config/password/pass.txt'
+                        passlist = '/data/data/com.termux/force/config/password/pass.txt'
                         print()
 
 
@@ -2723,7 +2723,7 @@ while True:
                         print("\033[1;91m[!] No input detected")
 
                     elif passd == "1" or passd == "01":
-                        passlist = '/data/data/com.termux/DevilX/config/password/pass.txt'
+                        passlist = '/data/data/com.termux/force/config/password/pass.txt'
                         os.system("instagram-py --username " + usr + " --password-list " + passlist)
                         print()
                         input("\033[1;94mPress ENTER To Continue")
@@ -2961,7 +2961,7 @@ while True:
 
                     elif lisw == "01" or lisw == "1":
                         print()
-                        wordlist = '/data/data/com.termux/DevilX/config/wordlist/wordlist.txt'
+                        wordlist = '/data/data/com.termux/force/config/wordlist/wordlist.txt'
                         print()
                         mds()
                         print()
@@ -3021,7 +3021,7 @@ while True:
 
                     elif lisaw == "01" or lisaw == "1":
                         print()
-                        wordlist = '/data/data/com.termux/DevilX/config/wordlist/wordlist.txt'
+                        wordlist = '/data/data/com.termux/force/config/wordlist/wordlist.txt'
                         print()
                         shaa()
                         print()
@@ -3081,7 +3081,7 @@ while True:
 
                     elif lisqw == "01" or lisqw == "1":
                         print()
-                        wordlist = '/data/data/com.termux/DevilX/config/wordlist/wordlist.txt'
+                        wordlist = '/data/data/com.termux/force/config/wordlist/wordlist.txt'
                         print()
                         shaaa()
                         print()
@@ -3139,7 +3139,7 @@ while True:
 
                     elif lisww == "01" or lisww == "1":
                         print()
-                        wordlist = '/data/data/com.termux/DevilX/config/wordlist/wordlist.txt'
+                        wordlist = '/data/data/com.termux/force/config/wordlist/wordlist.txt'
                         print()
                         shad()
                         print()
@@ -3199,7 +3199,7 @@ while True:
 
                     elif lisrw == "01" or lisrw == "1":
                         print()
-                        wordlist = '/data/data/com.termux/DevilX/config/wordlist/wordlist.txt'
+                        wordlist = '/data/data/com.termux/force/config/wordlist/wordlist.txt'
                         print()
                         shaf()
                         print()
@@ -3259,7 +3259,7 @@ while True:
 
                     elif listw == "01" or listw == "1":
                         print()
-                        wordlist = '/data/data/com.termux/DevilX/config/wordlist/wordlist.txt'
+                        wordlist = '/data/data/com.termux/force/config/wordlist/wordlist.txt'
                         print()
                         shak()
                         print()
@@ -4357,38 +4357,38 @@ while True:
             os.system("clear")
             print(banner)
             print()
-            print("\033[1;91m[*] \033[1;97mThanks for using my tool '\033[1;91mDevilX\033[1;97m'. So you can follow me on various social media site. Link and options are given down below, So select here options where you want to follow me ")
+            print("\033[1;91m[*] \033[1;97mThanks for using my tool '\033[1;91mforce\033[1;97m'. So you can follow me on various social media site. Link and options are given down below, So select here options where you want to follow me ")
             print()
             fol = input(soc)
             if fol == '1' or fol == '01':
                 print()
                 print("\033[1;91m[*] \033[1;97mOpening my Instagram profile in your device \n")
                 sleep(0.8)
-                os.system("xdg-open https://instagram.com/0hacker_x0")
+                os.system("xdg-open https://instagram.com/pushy.gamer.27")
             
             elif fol == '2' or fol == '02':
                 print()
                 print("\033[1;91m[*] \033[1;97mOpening my Facebook page in your device \n")
                 sleep(0.8)
-                os.system("xdg-open https://facebook.com/hackerxmr")
+                os.system("xdg-open https://facebook.com/kontolodon")
 
             elif fol == '3' or fol == '03':
                 print()
                 print("\033[1;91m[*] \033[1;97mOpening my Github profile in your device \n")
                 sleep(0.8)
-                os.system("xdg-open https://github.com/MrHacker-X")
+                os.system("xdg-open https://github.com/dhritzz")
 
             elif fol == '4' or fol == '04':
                 print()
                 print("\033[1;91m[*] \033[1;97mOpening my YouTube channel in your device \n")
                 sleep(0.8)
-                os.system("xdg-open https://youtube.com/@Technolex")
+                os.system("xdg-open https://youtube.com/@asdasd")
             
             elif fol == '5' or fol == '05':
                 print()
                 print("\033[1;91m[*] \033[1;97mOpening my Telegram Channel in your device \n")
                 sleep(0.8)
-                os.system("xdg-open https://t.me/hackwithalex")
+                os.system("xdg-open https://t.me/adsasddas")
 
             elif fol == '95':
                 print()
